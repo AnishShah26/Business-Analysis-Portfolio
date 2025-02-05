@@ -8,8 +8,8 @@ I believe that data is one of the most powerful tools for change in the business
 
 Soft Skills:
 
-Strong problem-solving abilities to tackle complex business challenges.
-Effective communication skills, enabling me to present data insights clearly to stakeholders.
-Collaborative team player with experience in leadership roles, ensuring smooth project execution and timely delivery.
-Adaptability and a keen ability to learn new technologies to stay ahead in the ever-evolving data landscape.
+- Strong problem-solving abilities to tackle complex business challenges.
+- Effective communication skills, enabling me to present data insights clearly to stakeholders.
+- Collaborative team player with experience in leadership roles, ensuring smooth project execution and timely delivery.
+- Adaptability and a keen ability to learn new technologies to stay ahead in the ever-evolving data landscape.
 
