@@ -25,10 +25,10 @@ To provide stakeholders with insights into sales performance and customer behavi
 **Description:** 
 This project focused on creating two interactive dashboards in Tableau
 
-**Sales Dashboard:** 
+- **Sales Dashboard:** 
 Presents KPIs like total sales, profits, and quantity, comparing data across years with monthly and weekly trends.
 
-**Customer Dashboard:** 
+- **Customer Dashboard:** 
 Analyzes customer behavior, top customers by profit, and provides insights on customer distribution based on the number of orders.
 
 **Skills:** 
