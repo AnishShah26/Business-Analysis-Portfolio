@@ -55,4 +55,4 @@ The dashboards provide dynamic, interactive views that allow users to analyze sa
 
 **Mockups:**
 ![Sales Dashboard Mockup](https://drive.google.com/file/d/1My1YxUwPrV1Pb1-MZiPaCzIDY1XxT_fZ/view?usp=sharing)
-![Customer Dashboard Mockup](https://drive.google.com/file/d/1TiGVSpsOaCbKNyErt92-9zaUYPILqaGF/view?usp=sharing)
+![Customer Dashboard Mockup](https://github.com/AnishShah26/Business-Analyst-Portfolio/blob/f80058784d9f8350f2881eb1098d0e37aa4dc688/Images/Customer%20Dashboard%20Mockup.png)
