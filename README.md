@@ -54,5 +54,6 @@ Ensured interactivity (filtering, drilling down) worked seamlessly, and validate
 The dashboards provide dynamic, interactive views that allow users to analyze sales performance over time, compare product subcategory performance, and explore customer behaviors to improve business decisions.
 
 **Mockups:**
-![Sales Dashboard Mockup](https://drive.google.com/file/d/1My1YxUwPrV1Pb1-MZiPaCzIDY1XxT_fZ/view?usp=sharing)
+![Sales Dashboard Mockup](https://github.com/AnishShah26/Business-Analyst-Portfolio/blob/8bc21d9e5b0fabe17274841cdacc4d9e39a5ca64/Images/Sales%20Dashboard%20Mockup.png)
+
 ![Customer Dashboard Mockup](https://github.com/AnishShah26/Business-Analyst-Portfolio/blob/f80058784d9f8350f2881eb1098d0e37aa4dc688/Images/Customer%20Dashboard%20Mockup.png)
