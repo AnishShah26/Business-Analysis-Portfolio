@@ -19,39 +19,29 @@ This section highlights key projects where I’ve applied various technologies t
 
 ### Sales Performance Dashboard - [Dashboard Link](https://public.tableau.com/views/SalesandCustomerDashboard_17387665256840/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  
-**Goal:**
-To provide stakeholders with insights into sales performance and customer behavior.
+**Goal:** To provide stakeholders with insights into sales performance and customer behavior.
 
-**Description:**
-This project focused on creating two interactive dashboards in Tableau
+**Description:** This project focused on creating two interactive dashboards in Tableau
 
 **Sales Dashboard:** Presents KPIs like total sales, profits, and quantity, comparing data across years with monthly and weekly trends.
 **Customer Dashboard:** Analyzes customer behavior, top customers by profit, and provides insights on customer distribution based on the number of orders.
-**Skills:**
-Data visualization, dashboard creation, interactive filters, KPI analysis, user-driven insights.
+**Skills:** Data visualization, dashboard creation, interactive filters, KPI analysis, user-driven insights.
 
-**Technology:**
-Tableau
+**Technology:** Tableau
 
 **Steps Followed:**
 
-**1. Requirements Analysis:**
-Defined KPIs, selected appropriate charts (e.g., bar-in-bar for product comparison, sparkline for trends), and created wireframe mockups.
+1. Requirements Analysis: Defined KPIs, selected appropriate charts (e.g., bar-in-bar for product comparison, sparkline for trends), and created wireframe mockups.
 
-**2. Data Preparation:**
-Connected and cleaned data, ensuring consistency and handling missing values.
+2. Data Preparation: Connected and cleaned data, ensuring consistency and handling missing values.
 
-**3. Dashboard Creation:**
-Developed calculated fields for KPIs, built interactive charts, and implemented dynamic filters for user exploration.
+3. Dashboard Creation: Developed calculated fields for KPIs, built interactive charts, and implemented dynamic filters for user exploration.
 
-**4. Design & Layout:**
-Organized dashboards with intuitive containers, icons, and color schemes for easy navigation.
+4. Design & Layout: Organized dashboards with intuitive containers, icons, and color schemes for easy navigation.
 
-**5. Testing & Validation:**
-Ensured interactivity (filtering, drilling down) worked seamlessly, and validated data accuracy across both dashboards.
+5. Testing & Validation: Ensured interactivity (filtering, drilling down) worked seamlessly, and validated data accuracy across both dashboards.
 
-**Results:**
-The dashboards provide dynamic, interactive views that allow users to analyze sales performance over time, compare product subcategory performance, and explore customer behaviors to improve business decisions.
+**Results:** The dashboards provide dynamic, interactive views that allow users to analyze sales performance over time, compare product subcategory performance, and explore customer behaviors to improve business decisions.
 
 **Mockups:**
 
