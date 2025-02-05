@@ -19,10 +19,11 @@ This section highlights key projects where I’ve applied various technologies t
 
 ### Sales Performance Dashboard - [Dashboard Link](https://public.tableau.com/views/SalesandCustomerDashboard_17387665256840/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  
-**Goal:** 
+**Goal:**
 To provide stakeholders with insights into sales performance and customer behavior.
 
 **Description:** 
+
 This project focused on creating two interactive dashboards in Tableau
 
 **Sales Dashboard:** 
