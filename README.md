@@ -19,22 +19,22 @@ This section highlights key projects where I’ve applied various technologies t
 
 ### Sales Performance Dashboard - [Dashboard Link](https://public.tableau.com/views/SalesandCustomerDashboard_17387665256840/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  
-**Goal:**  
+**Goal:** 
 To provide stakeholders with insights into sales performance and customer behavior.
 
-**Description:**  
+**Description:** 
 This project focused on creating two interactive dashboards in Tableau
 
-**Sales Dashboard:**  
+**Sales Dashboard:** 
 Presents KPIs like total sales, profits, and quantity, comparing data across years with monthly and weekly trends.
 
-**Customer Dashboard:**  
+**Customer Dashboard:** 
 Analyzes customer behavior, top customers by profit, and provides insights on customer distribution based on the number of orders.
 
-**Skills:**  
+**Skills:** 
 Data visualization, dashboard creation, interactive filters, KPI analysis, user-driven insights.
 
-**Technology:**  
+**Technology:** 
 Tableau
 
 **Steps Followed:**
@@ -49,7 +49,7 @@ Tableau
 
 5. Testing & Validation: Ensured interactivity (filtering, drilling down) worked seamlessly, and validated data accuracy across both dashboards.
 
-**Results:**  
+**Results:** 
 The dashboards provide dynamic, interactive views that allow users to analyze sales performance over time, compare product subcategory performance, and explore customer behaviors to improve business decisions.
 
 **Mockups:**
