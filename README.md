@@ -17,7 +17,7 @@ I believe that data is one of the most powerful tools for change in the business
 ## Portfolio Projects
 This section highlights key projects where I’ve applied various technologies to analyze data, visualize insights, and solve real-world business challenges.
 
-### Sales Performance Dashboard - [Dashboard Link](https://public.tableau.com/views/SalesandCustomerDashboard_17387665256840/CustomerDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### Sales Performance Dashboard - [Dashboard Link](https://public.tableau.com/views/SalesandCustomerDashboard_17387665256840/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  
 **Goal:**
 To provide stakeholders with insights into sales performance and customer behavior.
