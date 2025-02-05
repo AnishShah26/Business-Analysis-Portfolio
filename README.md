@@ -33,6 +33,26 @@ Data visualization, dashboard creation, interactive filters, KPI analysis, user-
 **Technology:**
 Tableau
 
+**Steps Followed:**
+
+**1. Requirements Analysis:**
+Defined KPIs, selected appropriate charts (e.g., bar-in-bar for product comparison, sparkline for trends), and created wireframe mockups.
+
+**2. Data Preparation:**
+Connected and cleaned data, ensuring consistency and handling missing values.
+
+**3. Dashboard Creation:**
+Developed calculated fields for KPIs, built interactive charts, and implemented dynamic filters for user exploration.
+
+**4. Design & Layout:**
+Organized dashboards with intuitive containers, icons, and color schemes for easy navigation.
+
+**5. Testing & Validation:**
+Ensured interactivity (filtering, drilling down) worked seamlessly, and validated data accuracy across both dashboards.
+
 **Results:**
 The dashboards provide dynamic, interactive views that allow users to analyze sales performance over time, compare product subcategory performance, and explore customer behaviors to improve business decisions.
 
+**Mockups:**
+![Sales Dashboard Mockup](https://drive.google.com/file/d/1My1YxUwPrV1Pb1-MZiPaCzIDY1XxT_fZ/view?usp=sharing)
+![Customer Dashboard Mockup](https://drive.google.com/file/d/1TiGVSpsOaCbKNyErt92-9zaUYPILqaGF/view?usp=sharing)
