@@ -57,3 +57,40 @@ The dashboards provide dynamic, interactive views that allow users to analyze sa
 ![Sales Dashboard Mockup](https://github.com/AnishShah26/Business-Analyst-Portfolio/blob/8bc21d9e5b0fabe17274841cdacc4d9e39a5ca64/Images/Sales%20Dashboard%20Mockup.png)
 
 ![Customer Dashboard Mockup](https://github.com/AnishShah26/Business-Analyst-Portfolio/blob/f80058784d9f8350f2881eb1098d0e37aa4dc688/Images/Customer%20Dashboard%20Mockup.png)
+
+### Google Trends Dashboard - 
+
+**Goal:**
+To provide real-time insights into keyword popularity, regional trends, and search behavior using Google Trends data.
+
+**Description:**
+This project focused on creating an interactive Power BI dashboard to track keyword trends over different timeframes and locations.
+
+- Interest Over Time: Displays the popularity of selected keywords across different periods.
+- Regional Interest Map: Highlights keyword search volume by country or region.
+- Trending Keywords (Past 7 Days): Showcases the most recent keyword trends.
+- Related Keywords Analysis: Identifies top and rising search terms.
+
+**Skills:**
+- Data visualization
+- API integration
+- Power Query (M language)
+- Dynamic filtering and user-driven insights
+
+**Technology:**
+Power BI (with SerpAPI for real-time Google Trends data)
+
+**Steps Followed:**
+- Requirements Analysis: Identified key insights, selected appropriate visuals such as line charts for trends and maps for regional data.
+- API Integration: Connected Power BI to Google Trends via SerpAPI, enabling real-time data fetching.
+- Data Processing: Transformed API response using Power Query (M language) and structured data for visualization.
+- Dashboard Creation: Designed interactive visuals, applied filters, and optimized user experience.
+- Design & Layout: Ensured intuitive navigation, applied color schemes, and used containers for clarity.
+- Testing & Validation: Verified API responses, cross-checked trend data, and ensured seamless interactivity.
+
+**Results:**
+- Live, interactive dashboard providing real-time keyword insights.
+- Enables businesses, marketers, and analysts to track search trends and make data-driven decisions.
+- Offers regional search insights to identify market trends and user interests.
+
+**Mockups:**
