@@ -88,7 +88,7 @@ Power BI (with SerpAPI for real-time Google Trends data)
 - Design & Layout: Ensured intuitive navigation, applied color schemes, and used containers for clarity.
 - Testing & Validation: Verified API responses, cross-checked trend data, and ensured seamless interactivity.
 
-**Results:**
+**Results:** 
 - Live, interactive dashboard providing real-time keyword insights.
 - Enables businesses, marketers, and analysts to track search trends and make data-driven decisions.
 - Offers regional search insights to identify market trends and user interests.
