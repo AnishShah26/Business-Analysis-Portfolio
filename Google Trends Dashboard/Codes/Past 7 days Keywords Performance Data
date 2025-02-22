@@ -1,0 +1,18 @@
+let
+    // Define the base URL for the API call
+    BaseUrl = "https://serpapi.com/search",
+
+// Define the query parameters with engine, terms, data type, date, and time zone
+QueryParams = [engine="google_trends",q="Data Analyst,The Developer,Jobs,India,Power BI", data_type = "TIMESERIES",date = "now 7-d",tz = "-330",api_key = "Peste your key here"],
+
+// Generate the full URL with query parameters
+UrlWithParams = BaseUrl & "?" & Text.Combine(List.Transform(Record.FieldNames(QueryParams), 
+    each _ & "=" & Uri.EscapeDataString(Record.Field(QueryParams, _))), "&"),
+
+// Fetch data from the API
+JsonResponse = Json.Document(Web.Contents(UrlWithParams)),
+
+// Extract the "interest_over_time" part from the JSON response
+InterestOverTime = JsonResponse[#"interest_over_time"]
+in
+    InterestOverTime
