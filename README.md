@@ -28,12 +28,12 @@ To provide stakeholders with actionable insights into sales performance and cust
 **📌 Description:** 
 This project focuses on creating two interactive dashboards in Tableau:
 
-- Sales Dashboard – Presents KPIs like total sales, profit, and quantity, comparing data across years with monthly and weekly trends.
-- Customer Dashboard – Analyzes customer behavior, identifies top customers by profit, and provides insights on customer distribution based on the number of orders.
+- **Sales Dashboard** – Presents KPIs like total sales, profit, and quantity, comparing data across years with monthly and weekly trends.
+- **Customer Dashboard** – Analyzes customer behavior, identifies top customers by profit, and provides insights on customer distribution based on the number of orders.
 
 **🛠 Tools Used:** 
-- Tableau – Data preparation, dashboard creation, interactive filters
-- Data Visualization – KPI analysis, trend charts, customer segmentation
+- **Tableau** – Data preparation, dashboard creation, interactive filters
+- **Data Visualization** – KPI analysis, trend charts, customer segmentation
 
 **📊 Data Source & Preparation:** 
 The dataset was inspired by real-world sales data and refined in Tableau to ensure accuracy.
@@ -46,25 +46,25 @@ The dataset was inspired by real-world sales data and refined in Tableau to ensu
 **🚀 Key Insights:** 
 
 **🔹 Sales Dashboard**
-- Total Sales: +20.4% vs. Previous Year (PY)
-- Total Profit: +14.2% vs. PY
-- Total Quantity Sold: +26.8% vs. PY
-- Top-Selling Product: Phones had the highest number of sales in Current Year (CY)
-- Most Profitable Product: Copiers generated the highest profit in CY
-- Sales Trend: Sales started below average early in the year, saw a boost in weeks 10-15, remained stable, and surged again after week 40-50.
+- **Total Sales:** +20.4% vs. Previous Year (PY)
+- **Total Profit:** +14.2% vs. PY
+- **Total Quantity Sold:** +26.8% vs. PY
+- **Top-Selling Product:** Phones had the highest number of sales in Current Year (CY)
+- **Most Profitable Product:** Copiers generated the highest profit in CY
+- **Sales Trend:** Sales started below average early in the year, saw a boost in weeks 10-15, remained stable, and surged again after week 40-50.
 
 **🔹 Customer Dashboard** 
-- Total Customers: +8.6% vs. PY
-- Total Sales per Customer: +10.8% vs. PY
-- Total Orders: +28.3% vs. PY
-- Top 10 Customers: Accounted for $25K+ in total sales
+- **Total Customers:** +8.6% vs. PY
+- **Total Sales per Customer:** +10.8% vs. PY
+- **Total Orders:** +28.3% vs. PY
+- **Top 10 Customers:** Accounted for $25K+ in total sales
 
 **📌 Steps Followed:** 
-- Requirements Analysis – Defined KPIs, selected best visualizations (bar-in-bar, sparklines)
-- Data Preparation – Cleaned data, ensured consistency, and created calculated fields
-- Dashboard Creation – Built interactive charts with filters and drill-down capabilities
-- Design & Layout – Organized with intuitive navigation, icons, and color schemes
-- Testing & Validation – Ensured seamless interactivity and validated data accuracy
+- **Requirements Analysis** – Defined KPIs, selected best visualizations (bar-in-bar, sparklines)
+- **Data Preparation** – Cleaned data, ensured consistency, and created calculated fields
+- **Dashboard Creation** – Built interactive charts with filters and drill-down capabilities
+- **Design & Layout** – Organized with intuitive navigation, icons, and color schemes
+- **Testing & Validation** – Ensured seamless interactivity and validated data accuracy
 
 **📈 Results:**
 - 🚀 The dashboards reduced manual sales tracking time by 40% and helped identify 10% revenue growth opportunities through better product insights.
@@ -81,40 +81,61 @@ To enhance usability, I first designed wireframe mockups before building the das
 
 ## Google Trends Dashboard - [Dashboard Link](https://github.com/AnishShah26/Business-Analysis-Portfolio/blob/6084fc2e53f514e4b9a534be6f5d781a288b8e33/Google%20Trends%20Dashboard/Dashboard/Google%20Trends%20Dashboard.pbix)
 
-**Goal:**
-To provide real-time insights into keyword popularity, regional trends, and search behavior using Google Trends data.
+**📌 Goal:** 
+Deliver a real-time Power BI dashboard that enables businesses, marketers, and analysts to track keyword trends across different timeframes and locations. This helps them make data-driven decisions, optimize content strategies, and stay ahead of the competition.
 
-**Description:**
-This project focused on creating an interactive Power BI dashboard to track keyword trends over different timeframes and locations.
+**🔍 Key Insights & Findings** 
 
-- Interest Over Time: Displays the popularity of selected keywords across different periods.
-- Regional Interest Map: Highlights keyword search volume by country or region.
-- Trending Keywords (Past 7 Days): Showcases the most recent keyword trends.
-- Related Keywords Analysis: Identifies top and rising search terms.
 
-**Skills:**
-- Data visualization
-- API integration
-- Power Query (M language)
-- Dynamic filtering and user-driven insights
+- **Global Trends:** Among 54 countries analyzed, Tableau led global search volume, with Consultant and Power BI following closely behind.
+- **Regional Insights:** In India, "Consultant" emerged as the top-searched term, surpassing Tableau.
+- **Historical Trends (2005-2025):**
+1. Tableau has shown steady growth in searches over the years.
+2. Power BI saw a sharp surge post-2020, reflecting its rising market adoption.
+3. Last 7 Days: 7,500+ searches for these keywords were recorded.
 
-**Technology:**
-Power BI (with SerpAPI for real-time Google Trends data)
+**🚀 Emerging Keywords & Industry Trends** 
+- **Power BI's Growing Influence:** Rising keywords include Microsoft Fabric, Power BI Premium, and Microsoft Copilot, reflecting industry-wide adoption of AI-powered analytics.
+- **Wider Market Trends:** Microsoft Power BI, Data, and Microsoft remain the most associated search terms, reinforcing Power BI’s dominance in business intelligence.
 
-**Steps Followed:**
-- Requirements Analysis: Identified key insights, selected appropriate visuals such as line charts for trends and maps for regional data.
-- API Integration: Connected Power BI to Google Trends via SerpAPI, enabling real-time data fetching.
-- Data Processing: Transformed API response using Power Query (M language) and structured data for visualization.
-- Dashboard Creation: Designed interactive visuals, applied filters, and optimized user experience.
-- Design & Layout: Ensured intuitive navigation, applied color schemes, and used containers for clarity.
-- Testing & Validation: Verified API responses, cross-checked trend data, and ensured seamless interactivity.
+**🚀 Unique Features & Enhancements** 
+- **Custom Ranking Logic:** Implemented calculated fields to rank keywords based on week-over-week trends, identifying rising and declining terms.
+- **Missing Data Handling:** Used interpolation techniques to fill gaps from the API, ensuring consistent trend analysis.
+- **Performance Optimization:** Optimized API refresh cycles to reduce query time and enhance dashboard responsiveness.
 
-**Results:** 
-- Live, interactive dashboard providing real-time keyword insights.
-- Enables businesses, marketers, and analysts to track search trends and make data-driven decisions.
-- Offers regional search insights to identify market trends and user interests.
+**📊 Dashboard Features & Functionalities** 
+- **Interest Over Time** – Displays search trends for selected keywords over different timeframes.
+- **Regional Interest Map** – Highlights search volume by country/region.
+- **Trending Keywords (Past 7 Days)** – Identifies recent keyword surges and declining trends.
+- **Custom Keyword Comparison** – Allows users to analyze multiple keywords side by side with dynamic filters.
+- **Trend Percentage Calculations** – Shows week-over-week growth percentages for each keyword.
+- **Real-Time Updates** – Integrated SerpAPI for automated refresh cycles, ensuring up-to-date trend data.
 
-**Mockups:**
+**🛠 Technologies & Skills Used**
+- **Power BI** – Data visualization, interactive dashboard design
+- **API Integration using DAX & Power Query (M Language)** – Connected Power BI to Google Trends using SerpAPI for real-time data fetching
+
+**🚀 Business Impact & Measurable Results**
+- Reduced keyword research time by 40%, allowing businesses to act faster on trending insights.
+- Enabled real-time decision-making, giving analysts a competitive edge in adapting to market changes.
+- Boosted marketing ROI by aligning content with regional search behavior, ensuring maximum audience engagement.
+
+**📌 Steps Followed:** 
+- **Data Extraction:** Integrated Google Trends API via SerpAPI for real-time keyword data.
+- **Data Cleaning & Transformation:** Processed API responses using Power Query & DAX measures.
+- **Dashboard Design & Development:** Created interactive visuals, trend comparisons, and filters.
+- **Performance Optimization:** Implemented efficient API refresh cycles to enhance speed.
+- **Testing & Validation:** Cross-checked keyword data, validated insights, and refined UI/UX.-
+
+**📈 Final Results & Future Enhancements** 
+- Empowered businesses with real-time insights, helping them stay ahead of industry trends.
+- Future Scope: Plan to integrate additional APIs, such as Google Ads & SEMrush, for broader market analysis.
+
+**🎨 Mockups & UI/UX Enhancements** 
+- **Conditional Formatting:** Used color-coded visual cues to highlight rising trends, ensuring intuitive decision-making.
+- **Mobile Optimization:** Ensured responsive design, making trend analysis accessible on multiple devices.
+
+**📌 Mockups Below:**
 ![Overview](https://github.com/AnishShah26/Business-Analysis-Portfolio/blob/ca7ee496600e1dcf49ba86169f9b3649118f1cbf/Google%20Trends%20Dashboard/Images/Mockups/Google%20Trends%20Dashboard(Overview).png)
 ![Keywords By Date](https://github.com/AnishShah26/Business-Analysis-Portfolio/blob/ca7ee496600e1dcf49ba86169f9b3649118f1cbf/Google%20Trends%20Dashboard/Images/Mockups/Keywords_By_Date.png)
 ![Real Time](https://github.com/AnishShah26/Business-Analysis-Portfolio/blob/ca7ee496600e1dcf49ba86169f9b3649118f1cbf/Google%20Trends%20Dashboard/Images/Mockups/Real-Time.png)
