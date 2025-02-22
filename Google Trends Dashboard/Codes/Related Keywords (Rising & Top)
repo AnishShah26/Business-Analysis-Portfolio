@@ -1,0 +1,17 @@
+let
+    // Define the API endpoint
+    apiUrl = "https://serpapi.com/search.json",
+
+// Define the parameters
+queryParams = [engine = "google_trends",q = "The Developer",data_type = "RELATED_TOPICS",api_key = "Peste your Key"],
+
+// Combine the endpoint and parameters to create the full URL
+fullUrl = apiUrl & "?" & Uri.BuildQueryString(queryParams),
+
+// Make the HTTP request and get the response
+response = Web.Contents(fullUrl),
+
+// Parse the JSON response
+jsonResponse = Json.Document(response)
+in
+    jsonResponse
