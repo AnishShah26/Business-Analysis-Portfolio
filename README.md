@@ -17,7 +17,7 @@ I believe that data is one of the most powerful tools for change in the business
 ## Portfolio Projects
 This section highlights key projects where I’ve applied various technologies to analyze data, visualize insights, and solve real-world business challenges.
 
-### Sales Performance Dashboard - [Dashboard Link](https://public.tableau.com/views/SalesandCustomerDashboard_17387665256840/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## Sales Performance Dashboard - [Dashboard Link](https://public.tableau.com/views/SalesandCustomerDashboard_17387665256840/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  
 **Goal:** 
 To provide stakeholders with insights into sales performance and customer behavior.
@@ -58,7 +58,7 @@ The dashboards provide dynamic, interactive views that allow users to analyze sa
 
 ![Customer Dashboard Mockup](https://github.com/AnishShah26/Business-Analyst-Portfolio/blob/f80058784d9f8350f2881eb1098d0e37aa4dc688/Images/Customer%20Dashboard%20Mockup.png)
 
-### Google Trends Dashboard - [Dashboard Link](https://github.com/AnishShah26/Business-Analysis-Portfolio/blob/6084fc2e53f514e4b9a534be6f5d781a288b8e33/Google%20Trends%20Dashboard/Dashboard/Google%20Trends%20Dashboard.pbix)
+## Google Trends Dashboard - [Dashboard Link](https://github.com/AnishShah26/Business-Analysis-Portfolio/blob/6084fc2e53f514e4b9a534be6f5d781a288b8e33/Google%20Trends%20Dashboard/Dashboard/Google%20Trends%20Dashboard.pbix)
 
 **Goal:**
 To provide real-time insights into keyword popularity, regional trends, and search behavior using Google Trends data.
