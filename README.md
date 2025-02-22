@@ -94,4 +94,7 @@ Power BI (with SerpAPI for real-time Google Trends data)
 - Offers regional search insights to identify market trends and user interests.
 
 **Mockups:**
-![Overview](Google Trends Dashboard/Images/Mockups/Google Trends Dashboard(Overview).png)
+![Overview]
+![Keywords By Date]
+![Real Time]
+![Rising and Top Keywords]
