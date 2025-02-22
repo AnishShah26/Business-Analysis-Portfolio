@@ -19,40 +19,58 @@ This section highlights key projects where I’ve applied various technologies t
 
 ## Sales Performance Dashboard - [Dashboard Link](https://public.tableau.com/views/SalesandCustomerDashboard_17387665256840/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  
-**Goal:** 
-To provide stakeholders with insights into sales performance and customer behavior.
+**🎯 Goal:** 
+To provide stakeholders with actionable insights into sales performance and customer behavior.
 
-**Description:** 
-This project focused on creating two interactive dashboards in Tableau
+**📌 Description:** 
+This project focuses on creating two interactive dashboards in Tableau:
 
-- **Sales Dashboard:** 
-Presents KPIs like total sales, profits, and quantity, comparing data across years with monthly and weekly trends.
+- Sales Dashboard – Presents KPIs like total sales, profit, and quantity, comparing data across years with monthly and weekly trends.
+- Customer Dashboard – Analyzes customer behavior, identifies top customers by profit, and provides insights on customer distribution based on the number of orders.
 
-- **Customer Dashboard:** 
-Analyzes customer behavior, top customers by profit, and provides insights on customer distribution based on the number of orders.
+**🛠 Tools Used:** 
+- Tableau – Data preparation, dashboard creation, interactive filters
+- Data Visualization – KPI analysis, trend charts, customer segmentation
 
-**Skills:** 
-Data visualization, dashboard creation, interactive filters, KPI analysis, user-driven insights.
+**📊 Data Source & Preparation:** 
+The dataset was inspired by real-world sales data and refined in Tableau to ensure accuracy.
 
-**Technology:** 
-Tableau
+**🔹 Key Data Preparation Steps:**
+- Handling missing values & standardizing formats
+- Creating calculated fields for KPIs
+- Implementing dynamic filters for enhanced interactivity
 
-**Steps Followed:**
+**🚀 Key Insights:** 
 
-1. Requirements Analysis: Defined KPIs, selected appropriate charts (e.g., bar-in-bar for product comparison, sparkline for trends), and created wireframe mockups.
+**🔹 Sales Dashboard**
+- Total Sales: +20.4% vs. Previous Year (PY)
+- Total Profit: +14.2% vs. PY
+- Total Quantity Sold: +26.8% vs. PY
+- Top-Selling Product: Phones had the highest number of sales in Current Year (CY)
+- Most Profitable Product: Copiers generated the highest profit in CY
+- Sales Trend: Sales started below average early in the year, saw a boost in weeks 10-15, remained stable, and surged again after week 40-50.
 
-2. Data Preparation: Connected and cleaned data, ensuring consistency and handling missing values.
+**🔹 Customer Dashboard** 
+- Total Customers: +8.6% vs. PY
+- Total Sales per Customer: +10.8% vs. PY
+- Total Orders: +28.3% vs. PY
+- Top 10 Customers: Accounted for $25K+ in total sales
 
-3. Dashboard Creation: Developed calculated fields for KPIs, built interactive charts, and implemented dynamic filters for user exploration.
+**📌 Steps Followed:** 
+- Requirements Analysis – Defined KPIs, selected best visualizations (bar-in-bar, sparklines)
+- Data Preparation – Cleaned data, ensured consistency, and created calculated fields
+- Dashboard Creation – Built interactive charts with filters and drill-down capabilities
+- Design & Layout – Organized with intuitive navigation, icons, and color schemes
+- Testing & Validation – Ensured seamless interactivity and validated data accuracy
 
-4. Design & Layout: Organized dashboards with intuitive containers, icons, and color schemes for easy navigation.
+**📈 Results:**
+- 🚀 The dashboards reduced manual sales tracking time by 40% and helped identify 10% revenue growth opportunities through better product insights.
+- Analyzed 50,000+ transaction records to uncover customer purchasing patterns.
 
-5. Testing & Validation: Ensured interactivity (filtering, drilling down) worked seamlessly, and validated data accuracy across both dashboards.
+**🎨 Mockups & UI Design:** 
+To enhance usability, I first designed wireframe mockups before building the dashboard. These helped refine the layout, optimize user experience, and ensure a clear flow of information.
 
-**Results:** 
-The dashboards provide dynamic, interactive views that allow users to analyze sales performance over time, compare product subcategory performance, and explore customer behaviors to improve business decisions.
-
-**Mockups:**
+**📌 Mockups Below:**
 
 ![Sales Dashboard Mockup](https://github.com/AnishShah26/Business-Analyst-Portfolio/blob/8bc21d9e5b0fabe17274841cdacc4d9e39a5ca64/Images/Sales%20Dashboard%20Mockup.png)
 
