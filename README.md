@@ -58,7 +58,7 @@ The dashboards provide dynamic, interactive views that allow users to analyze sa
 
 ![Customer Dashboard Mockup](https://github.com/AnishShah26/Business-Analyst-Portfolio/blob/f80058784d9f8350f2881eb1098d0e37aa4dc688/Images/Customer%20Dashboard%20Mockup.png)
 
-### Google Trends Dashboard - 
+### Google Trends Dashboard - [Dashboard Link](https://github.com/AnishShah26/Business-Analysis-Portfolio/blob/6084fc2e53f514e4b9a534be6f5d781a288b8e33/Google%20Trends%20Dashboard/Dashboard/Google%20Trends%20Dashboard.pbix)
 
 **Goal:**
 To provide real-time insights into keyword popularity, regional trends, and search behavior using Google Trends data.
