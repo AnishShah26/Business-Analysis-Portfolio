@@ -22,19 +22,18 @@ This section highlights key projects where I’ve applied various technologies t
 
 ## Sales Performance Dashboard - [Dashboard Link](https://public.tableau.com/views/SalesandCustomerDashboard_17387665256840/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  
-### 🎯 Goal 
+**🎯 Goal:**
 To provide stakeholders with actionable insights into sales performance and customer behavior.
 
-### 📌 Overview 
+**📌 Overview:** 
 This project features two interactive Tableau dashboards
 - Sales Dashboard – Tracks sales, profit, quantity, and trends over time.
 - Customer Dashboard – Analyzes customer behavior, highlights top customers, and tracks order distribution.
 
-### 🛠 Tools Used 
-- Tableau
-- Data Visualization
+**🛠 Tools Used:** 
+Tableau, Data Visualization
 
-### 📈 Results 
+**📈 Results:**
 - Boost sales of Phones, the top-selling product, to maximize revenue.
 - Increase promotion of Copiers, the most profitable product, for higher margins.
 - Run targeted sales during peak demand periods (Weeks 10-15 in summer & Weeks 40-50 in winter) to attract more customers.
@@ -43,21 +42,18 @@ This project features two interactive Tableau dashboards
 
 ## Google Trends Dashboard - [Dashboard Link](https://github.com/AnishShah26/Business-Analysis-Portfolio/blob/6084fc2e53f514e4b9a534be6f5d781a288b8e33/Google%20Trends%20Dashboard/Dashboard/Google%20Trends%20Dashboard.pbix)
 
-### 🎯 Goal 
+**🎯 Goal:** 
 To provide stakeholders with real-time insights into keyword trends, helping businesses, marketers, and analysts make data-driven decisions and optimize their content strategies.
 
-### 📌 Overview
+**📌 Overview:** 
 This project features an interactive Power BI dashboard designed to track and analyze search trends from Google Trends in real-time.
 - Trends Dashboard – Displays search interest over time, regional popularity, and trending keywords.
 - Keyword Analysis – Provides insights into emerging keywords, industry trends, and market shifts.
 
-### 🛠 Tools Used
-- Power BI
-- API Integration
-- DAX
-- Power Query
+**🛠 Tools Used:**
+Power BI, API Integration, DAX, Power Query
 
-### Results
+**📈 Results:**
 - Tableau’s global dominance suggests that businesses still widely rely on it for data visualization and analytics.
 - High search volume for "Consultant" in India indicates a growing demand for consulting careers in business and analytics.
 - Power BI’s surge post-2020 (after COVID-19) reflects a shift towards modern data visualization tools, signaling their rising demand in the industry.
