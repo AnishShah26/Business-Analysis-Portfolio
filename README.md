@@ -40,6 +40,8 @@ Tableau, Data Visualization
 - Offer loyalty incentives (e.g., coupons) to the top 10 customers to drive repeat purchases.
 - Optimize inventory management to prevent stockouts during high-demand weeks.
 
+[🔍 View Detailed Project](https://github.com/AnishShah26/Business-Analysis-Portfolio/tree/6afc9bf6e566a61fa27d49fe5a2421093da5d562/Sales%20Performance%20Dashboard)
+
 ## Google Trends Dashboard - [Dashboard Link](https://github.com/AnishShah26/Business-Analysis-Portfolio/blob/6084fc2e53f514e4b9a534be6f5d781a288b8e33/Google%20Trends%20Dashboard/Dashboard/Google%20Trends%20Dashboard.pbix)
 
 **🎯 Goal:** 
@@ -57,3 +59,5 @@ Power BI, API Integration, DAX, Power Query
 - Tableau’s global dominance suggests that businesses still widely rely on it for data visualization and analytics.
 - High search volume for "Consultant" in India indicates a growing demand for consulting careers in business and analytics.
 - Power BI’s surge post-2020 (after COVID-19) reflects a shift towards modern data visualization tools, signaling their rising demand in the industry.
+
+[🔍 View Detailed Project](https://github.com/AnishShah26/Business-Analysis-Portfolio/tree/6afc9bf6e566a61fa27d49fe5a2421093da5d562/Google%20Trends%20Dashboard)
