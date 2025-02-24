@@ -45,8 +45,11 @@ The dataset was inspired by real-world sales data and refined in Tableau to ensu
 - **Testing & Validation** – Ensured seamless interactivity and validated data accuracy
 
 ## 📈 Results
-- 🚀 The dashboards reduced manual sales tracking time by 40% and helped identify 10% revenue growth opportunities through better product insights.
-- Analyzed 50,000+ transaction records to uncover customer purchasing patterns.
+- Boost sales of Phones, the top-selling product, to maximize revenue.
+- Increase promotion of Copiers, the most profitable product, for higher margins.
+- Run targeted sales during peak demand periods (Weeks 10-15 in summer & Weeks 40-50 in winter) to attract more customers.
+- Offer loyalty incentives (e.g., coupons) to the top 10 customers to drive repeat purchases.
+- Optimize inventory management to prevent stockouts during high-demand weeks.
 
 ## 🎨 Mockups & UI Design 
 To enhance usability, I first designed wireframe mockups before building the dashboard. These helped refine the layout, optimize user experience, and ensure a clear flow of information.
