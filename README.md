@@ -1,11 +1,4 @@
 # Anish Shah - Business Analyst Portfolio
-## 📑 Table of Contents
-1. [About Me](#-about-me)
-2. [Portfolio Projects](#-portfolio-projects)
-   - [Sales Performance Dashboard](#-sales-performance-dashboard)
-   - [Google Trends Dashboard](#-google-trends-dashboard)
-   - [Exploratory Data Analysis (EDA) for Fraud Detection Project](#-exploratory-data-analysis-eda-for-fraud-detection-project)
-3. [Contact](#-contact)
 ## 👋 About Me
 Hello! I’m **Anish Shah**, a 🎓 **Bachelor of Engineering in Computer Science** graduate from **University of Mumbai**. My journey into the world of 📊 data analytics and 📈 business strategy has been driven by my curiosity about how data can tell compelling stories and guide businesses toward smarter, more effective decisions.
 
