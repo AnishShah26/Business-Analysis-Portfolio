@@ -61,3 +61,18 @@ Power BI, API Integration, DAX, Power Query
 - Power BI’s surge post-2020 (after COVID-19) reflects a shift towards modern data visualization tools, signaling their rising demand in the industry.
 
 [🔍 View Detailed Project](https://github.com/AnishShah26/Business-Analysis-Portfolio/tree/6afc9bf6e566a61fa27d49fe5a2421093da5d562/Google%20Trends%20Dashboard)
+
+## Exploratory Data Analysis (EDA) for Fraud Detection Project - [Code](https://github.com/AnishShah26/Business-Analysis-Portfolio/blob/3c578e91ce0b19de6eecfa3537cdaf3b586d8fc7/EDA%20for%20Fraud%20Detection%20Project/Code/EDA_Fraud_Detection.ipynb)
+**🎯 Goal:** Analyze transaction data to detect potential fraud and identify high-risk clients and merchants.
+
+**📌 Overview:**
+- Analyzed 10 years of transaction data to identify high-value transactions, seasonal trends, and fraud indicators.
+- Conducted merchant-level drop analysis, transaction type breakdown, and high-risk client identification based on online transaction ratios.
+
+**🛠 Tools Used:** Python, Pandas, Matplotlib, Seaborn
+
+**📈 Results:**
+- Identified high-risk clients and merchants through various analysis methods.
+- Provided insights into transaction trends and potential fraud activity.
+
+[🔍 View Detailed Project](https://github.com/AnishShah26/Business-Analysis-Portfolio/tree/3c578e91ce0b19de6eecfa3537cdaf3b586d8fc7/EDA%20for%20Fraud%20Detection%20Project)
