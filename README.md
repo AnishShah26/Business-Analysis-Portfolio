@@ -17,6 +17,14 @@ I truly believe that data is one of the most powerful tools for change in the bu
 - Collaborative team player with experience in leadership roles, ensuring smooth project execution and timely delivery.
 - Adaptability and a keen ability to learn new technologies to stay ahead in the ever-evolving data landscape.
 
+## 📑 Table of Contents
+1. [About Me](#-about-me)
+2. [Portfolio Projects](#-portfolio-projects)
+   - [Sales Performance Dashboard](#sales-performance-dashboard)
+   - [Google Trends Dashboard](#google-trends-dashboard)
+   - [Exploratory Data Analysis (EDA) for Fraud Detection Project](#exploratory-data-analysis-eda-for-fraud-detection-project)
+3. [Contact](#-contact)
+
 ## 📂 Portfolio Projects
 This section highlights key projects where I’ve applied various technologies to analyze data, visualize insights, and solve real-world business challenges. 🚀📊
 
