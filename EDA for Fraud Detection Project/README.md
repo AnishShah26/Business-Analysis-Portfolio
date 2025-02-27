@@ -118,3 +118,8 @@ The dataset used for this project can be found at: [Kaggle Transaction Dataset](
 2. **Exploratory Data Analysis**: Uncovered trends, patterns, and anomalies.
 3. **Risk Analysis**: Categorized clients and merchants based on transaction behaviors.
 4. **Visualization**: Created insights through charts and graphs for better understanding.
+
+## 📈 Results:
+- Identified high-risk clients and merchants through various analysis methods.
+- Provided insights into transaction trends and potential fraud activity.
+- Highlighted **seasonal trends** where fraud rates spike, which can help businesses adjust their fraud detection models during these periods.
