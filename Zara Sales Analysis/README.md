@@ -96,11 +96,13 @@ The dataset consists of sales records containing attributes such as Product ID, 
 - Customer Demand Analysis: Identified trends in product demand and store placement.
 
 ## 📈 Results 
-- Men’s section dominates sales with significantly higher volume than Women’s.
-- The 50-100 price range is the most popular across all categories and generates the highest revenue.
-- Promotions increase revenue and volume, but non-promoted products remain highly valuable.
-- Seasonal products sell slightly better than non-seasonal ones.
-- Store placement matters, with aisle products performing the best.
+- Total Revenue: $38,988,476.48 with 459,573 total sales.
+- Most Profitable Price Range: $50-$100, generating the highest revenue and demand.
+- Top-Selling Product: Premium Leather Jacket - $299.
+- Promotions Impact: Increased both sales volume (219,261 units) and revenue ($19,994,386.90).
+- Seasonal Sales Trend: Seasonal products slightly outperform non-seasonal items (233,181 vs. 226,392).
+- Store Placement Effect: Aisle placements drive the most sales (177,396 units).
+- Customer Demand: Men’s section dominates sales, accounting for 396,199 units
 
 ## 📌 Final Takeaways
 - Zara should focus on the $50-100 price range as it generates the highest revenue and demand.
