@@ -94,4 +94,5 @@ This project involves an in-depth SQL analysis of Zara’s sales performance, co
 - Seasonal Sales Trend: Seasonal products slightly outperform non-seasonal items (233,181 vs. 226,392).
 - Store Placement Effect: Aisle placements drive the most sales (177,396 units).
 - Customer Demand: Men’s section dominates sales, accounting for 396,199 units.
+
 [🔍 View Detailed Project](https://github.com/AnishShah26/Business-Analysis-Portfolio/tree/91c90f6a7c3d067a97798b4bd20122811c36bee6/Zara%20Sales%20Analysis)
