@@ -62,7 +62,7 @@ Power BI, API Integration, DAX, Power Query
 
 [🔍 View Detailed Project](https://github.com/AnishShah26/Business-Analysis-Portfolio/tree/6afc9bf6e566a61fa27d49fe5a2421093da5d562/Google%20Trends%20Dashboard)
 
-## Exploratory Data Analysis (EDA) for Fraud Detection Project - [Code](https://github.com/AnishShah26/Business-Analysis-Portfolio/blob/3c578e91ce0b19de6eecfa3537cdaf3b586d8fc7/EDA%20for%20Fraud%20Detection%20Project/Code/EDA_Fraud_Detection.ipynb)
+## Exploratory Data Analysis (EDA) for Fraud Detection Project - [Code Link](https://github.com/AnishShah26/Business-Analysis-Portfolio/blob/3c578e91ce0b19de6eecfa3537cdaf3b586d8fc7/EDA%20for%20Fraud%20Detection%20Project/Code/EDA_Fraud_Detection.ipynb)
 **🎯 Goal:** Analyze transaction data to detect potential fraud and identify high-risk clients and merchants.
 
 **📌 Overview:**
@@ -78,7 +78,7 @@ Power BI, API Integration, DAX, Power Query
 
 [🔍 View Detailed Project](https://github.com/AnishShah26/Business-Analysis-Portfolio/tree/0ce5f37b0dc66a664fcc40ccc00116fb1e9f295b/EDA%20for%20Fraud%20Detection%20Project)
 
-## Zara Sales Analysis - [Code](https://github.com/AnishShah26/Business-Analysis-Portfolio/blob/69be83a7b19b11f4aa0fec84f97ad34058c7a5ed/Zara%20Sales%20Analysis/Code/Zara%20Code.sql)
+## Zara Sales Analysis - [Code Link](https://github.com/AnishShah26/Business-Analysis-Portfolio/blob/69be83a7b19b11f4aa0fec84f97ad34058c7a5ed/Zara%20Sales%20Analysis/Code/Zara%20Code.sql)
 **🎯 Goal:** To analyze Zara’s sales data and provide actionable insights for optimizing revenue, inventory, and customer demand.
 
 **📌 Overview:**
@@ -94,4 +94,4 @@ This project involves an in-depth SQL analysis of Zara’s sales performance, co
 - Seasonal Sales Trend: Seasonal products slightly outperform non-seasonal items (233,181 vs. 226,392).
 - Store Placement Effect: Aisle placements drive the most sales (177,396 units).
 - Customer Demand: Men’s section dominates sales, accounting for 396,199 units.
-[🔍 View Detailed Project]()
+[🔍 View Detailed Project](https://github.com/AnishShah26/Business-Analysis-Portfolio/tree/91c90f6a7c3d067a97798b4bd20122811c36bee6/Zara%20Sales%20Analysis)
