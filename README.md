@@ -77,3 +77,21 @@ Power BI, API Integration, DAX, Power Query
 - Highlighted **seasonal trends** where fraud rates spike, which can help businesses adjust their fraud detection models during these periods.
 
 [🔍 View Detailed Project](https://github.com/AnishShah26/Business-Analysis-Portfolio/tree/0ce5f37b0dc66a664fcc40ccc00116fb1e9f295b/EDA%20for%20Fraud%20Detection%20Project)
+
+## Zara Sales Analysis - [Code](https://github.com/AnishShah26/Business-Analysis-Portfolio/blob/69be83a7b19b11f4aa0fec84f97ad34058c7a5ed/Zara%20Sales%20Analysis/Code/Zara%20Code.sql)
+**🎯 Goal:** To analyze Zara’s sales data and provide actionable insights for optimizing revenue, inventory, and customer demand.
+
+**📌 Overview:**
+This project involves an in-depth SQL analysis of Zara’s sales performance, covering key aspects such as total revenue, product pricing, promotions, and seasonal demand. It answers critical business questions to support strategic decision-making.
+
+**🛠 Tools Used:** SQL, SQL Server Management Studio (SSMS), Data Analysis
+
+**📈 Results:**
+- Total Revenue: $38,988,476.48 with 459,573 total sales.
+- Most Profitable Price Range: $50-$100, generating the highest revenue and demand.
+- Top-Selling Product: Premium Leather Jacket - $299.
+- Promotions Impact: Increased both sales volume (219,261 units) and revenue ($19,994,386.90).
+- Seasonal Sales Trend: Seasonal products slightly outperform non-seasonal items (233,181 vs. 226,392).
+- Store Placement Effect: Aisle placements drive the most sales (177,396 units).
+- Customer Demand: Men’s section dominates sales, accounting for 396,199 units.
+[🔍 View Detailed Project]()
