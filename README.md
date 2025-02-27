@@ -76,4 +76,4 @@ Power BI, API Integration, DAX, Power Query
 - Provided insights into transaction trends and potential fraud activity.
 - Highlighted **seasonal trends** where fraud rates spike, which can help businesses adjust their fraud detection models during these periods.
 
-[🔍 View Detailed Project]([https://github.com/AnishShah26/Business-Analysis-Portfolio/tree/3c578e91ce0b19de6eecfa3537cdaf3b586d8fc7/EDA%20for%20Fraud%20Detection%20Project](https://github.com/AnishShah26/Business-Analysis-Portfolio/tree/a91ecda85b5a59fa764915ec43eb0a481d1a2e0f/EDA%20for%20Fraud%20Detection%20Project))
+[🔍 View Detailed Project](https://github.com/AnishShah26/Business-Analysis-Portfolio/tree/0ce5f37b0dc66a664fcc40ccc00116fb1e9f295b/EDA%20for%20Fraud%20Detection%20Project)
